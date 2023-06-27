@@ -5,4 +5,4 @@
 ![Screenshot 2023-06-27 170304](https://github.com/Chetax/Guess-The-Number-/assets/99749401/6cb2d94b-dd06-41cd-a737-f487f08c9e7b)
 ![Screenshot 2023-06-27 170327](https://github.com/Chetax/Guess-The-Number-/assets/99749401/64043846-c780-46c5-8116-63bd4ab62069)
 
-<h2>Try This : </h2>
+<h3>Try This :  https://chetax.github.io/Guess-The-Number-/ </h3>
